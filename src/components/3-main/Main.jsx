@@ -115,7 +115,8 @@ const Main = () => {
 
         <Card
           imgUrl={gpt}
-          title="ChaI enhanced user interaction with ChatGPT by developing reusable React components and an organized file structure, utilizing Flexbox and Grid for CSS, BEM for styling, and smooth animations, while ensuring responsiveness and showcasing ChatGPT's features."
+          title="ChatGPT_Overview"
+          subTitle="ChaI enhanced user interaction with ChatGPT by developing reusable React components and an organized file structure, utilizing Flexbox and Grid for CSS, BEM for styling, and smooth animations, while ensuring responsiveness and showcasing ChatGPT's features."
           githubLink="https://github.com/hishamrehab/ChatGPT_Overview"
           liveDemo="https://chat-gpt-overview.vercel.app/"
         />
